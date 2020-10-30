@@ -1,0 +1,25 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "age": "213",
+      "name": "Pelle",
+      "email": "m21aad@ad.dk",
+      "gender": "adad"
+    },
+    {
+      "id": 2,
+      "age": "21321",
+      "name": "ple",
+      "email": "mamam@mail.dk",
+      "gender": "melala"
+    },
+    {
+      "id": 3,
+      "age": "213",
+      "name": "mela",
+      "email": "ma@mal.dk",
+      "gender": "gemme"
+    }
+  ]
+}
